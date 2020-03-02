@@ -2,7 +2,7 @@
 <html>
 <body>
 
-<h1>My First Google Map</h1>
+<h1>Mapa de Marcas</h1>
 
 <div id="googleMap" style="width:95%;height:750px;"></div>
 
